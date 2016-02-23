@@ -1,3 +1,9 @@
+hawaii-workspace (0.6.90-1~hawaii1) unstable; urgency=medium
+
+  * [packaging] rules: do not use symbolshelper
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Tue, 23 Feb 2016 17:02:40 +0100
+
 hawaii-workspace (0.6.90-1~hawaii0) unstable; urgency=medium
 
   * Initial release.
